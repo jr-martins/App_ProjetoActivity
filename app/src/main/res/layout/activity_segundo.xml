@@ -4,23 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".SegundoActivity">
 
     <TextView
-        android:id="@+id/textView"
-        android:layout_width="204dp"
-        android:layout_height="54dp"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="48dp"
-        android:text="Activity 1" />
-
-    <Button
-        android:id="@+id/botaoId"
+        android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="170dp"
-        android:text="Ir para Activity 2" />
+        android:layout_marginTop="115dp"
+        android:text="Activity 2" />
 </RelativeLayout>
